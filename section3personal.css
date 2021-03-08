@@ -1,0 +1,35 @@
+.red {
+    background-color:red;
+    height: 70vh;
+}
+
+
+.navbar{
+   border-bottom: inset 1px black;
+   z-index:1;
+ 
+     
+}
+
+body {
+background: url(images/tech.jpeg) no-repeat center center fixed;
+background-size: cover;
+
+}
+h1{
+    color: whitesmoke;
+}
+
+.modal-image {
+ padding: 5px;
+    height:200px;
+}
+
+.modal-title {
+   align-self: center;
+}
+
+.modal-header {
+    border-bottom-width: 0;
+    
+}
